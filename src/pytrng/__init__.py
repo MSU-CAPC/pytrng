@@ -1,5 +1,5 @@
-from src.pytrng.DataCollector import DataCollector
-from src.pytrng.DataPool import DataPool
+from pytrng.DataCollector import DataCollector
+from pytrng.DataPool import DataPool
 
 
 def check_balance(bits: list, max_diff):
